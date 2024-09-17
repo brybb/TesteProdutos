@@ -1,0 +1,17 @@
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\bin\Debug\net6.0\Teste_Console_Produtos.exe
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\bin\Debug\net6.0\Teste_Console_Produtos.deps.json
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\bin\Debug\net6.0\Teste_Console_Produtos.runtimeconfig.json
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\bin\Debug\net6.0\Teste_Console_Produtos.dll
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\bin\Debug\net6.0\Teste_Console_Produtos.pdb
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.AssemblyInfoInputs.cache
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.AssemblyInfo.cs
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.csproj.CoreCompileInputs.cache
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.dll
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\refint\Teste_Console_Produtos.dll
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.pdb
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.genruntimeconfig.cache
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\ref\Teste_Console_Produtos.dll
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.csproj.AssemblyReference.cache
+C:\TesteTots\Teste_Console_Produtos\Teste_Console_Produtos\obj\Debug\net6.0\Teste_Console_Produtos.csproj.CopyComplete
